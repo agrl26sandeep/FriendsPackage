@@ -1,9 +1,9 @@
 # FriendsPackage
 
-  #Pre-requisites
+# Pre-requisites
     Make sure you have installed below:
-      OpenJDK-11
-      Maven 3.6.1 or higher version
+      1. OpenJDK-11
+      2. Maven 3.6.1 or higher version
 
   # Steps to execute
     1. Excute maven build 
