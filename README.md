@@ -8,7 +8,7 @@
   # Steps to execute
     1. Excute maven build 
     2. Run command: Java -jar Package_Challenge-1.0-SNAPSHOT-jar-with-dependencies.jar
-    3. Enter txt file pathe (take it from input folder from project
+    3. Enter txt file path (take it from input folder from project)
     4. Hit enter key
     
   
